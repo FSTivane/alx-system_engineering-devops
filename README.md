@@ -1,1 +1,1 @@
-My basic shell readme
+Task about Shell basic
