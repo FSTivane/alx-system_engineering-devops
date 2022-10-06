@@ -11,3 +11,4 @@ a7-everybody:a dds execution permission to the owner, the group owner and the ot
 10-mirror_permissions: sets the mode of the file hello the same as olleh’s mode
 11-directories_permissions: chmod --reference=olleh hello/n
 12-directory_permissions: directory called my_dir with permissions 751 in the working directory./n
+13-change_group: changes the group owner to school for the file hello./n
