@@ -9,3 +9,4 @@ a7-everybody:a dds execution permission to the owner, the group owner and the ot
 8-James_Bond: sets the permission to the file hello
 9-John_Doe: sets the mode of the file hello
 10-mirror_permissions: sets the mode of the file hello the same as olleh’s mode
+11-directories_permissions: chmod --reference=olleh hello/n
