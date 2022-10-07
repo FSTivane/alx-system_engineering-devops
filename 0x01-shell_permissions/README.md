@@ -13,3 +13,4 @@ a7-everybody:a dds execution permission to the owner, the group owner and the ot
 12-directory_permissions: directory called my_dir with permissions 751 in the working directory./n
 13-change_group: changes the group owner to school for the file hello./n
 101-symbolic_link_permissions changes the owner and the group owner of _hello to vincent and staff respectively.
+100-change_owner_and_group: changes the owner to vincent and the group owner to staff .
