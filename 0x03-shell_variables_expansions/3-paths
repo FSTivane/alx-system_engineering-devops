@@ -1,2 +1,1 @@
-#!/bin/bash
-echo $PATH | tr':' '\ln' | wc -l
+echo /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin | tr : n | wc -l
